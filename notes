@@ -1,0 +1,5 @@
+For this scan, we'll be using mythx(mythos), mythril and smartCheck.
+These tools are used to automate vulnerabilities scan, but do not replace a manual review by the developer or the security analyst.
+
+MythX and Mythril are SWC registry based tools, which meanns that these tools (derived from same team developers) will look for vulnerabilities found in SWC registry.
+SmartCheck has it own knowledge base and also scan the smart contract and report vulnerabilities according to its knowledge base.
