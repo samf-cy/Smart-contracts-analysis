@@ -1,0 +1,17 @@
+****Visualisation tools****
+Install Surya
+--> https://github.com/ConsenSys/surya
+Install SOL2UML
+--> https://github.com/naddison36/sol2uml
+
+
+****Analysis tool****
+
+Install Mythos (client CLI of MythX)
+--> https://github.com/cleanunicorn/mythos
+
+Install Mythril
+--> https://github.com/ConsenSys/mythril
+
+Install SmartCheck
+--> https://github.com/smartdec/smartcheck
